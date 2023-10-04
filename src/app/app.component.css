@@ -1,0 +1,21 @@
+.top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.playground {
+  display: flex;
+  justify-content: center;
+}
+
+.squares {
+  display: flex;
+  padding: 1px;
+}
+.playground button {
+  background-color: #87cefa;
+  border: none;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
